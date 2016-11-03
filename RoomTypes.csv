@@ -1,0 +1,13 @@
+RmType,TargetUtilization,RmCapacity,SF,Tech
+TeachingLabXL,28,40,1800,1
+TeachingLabSm,28,16,670,1
+TeachingLabMed,28,20,840,1
+TeachingLabLg,28,30,1260,1
+TeachingLabAdLg,16,18,3000,1
+TeachingLabAd,16,10,1000,1
+Seminar,45,16,320,0
+LectureXL,45,66,900,0
+LectureMed,45,20,500,0
+LectureLg,45,35,700,0
+AuditoriumLg,45,250,5000,0
+Auditorium,45,100,2000,0
